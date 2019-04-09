@@ -1,0 +1,4 @@
+compile
+run
+git status
+cd ..
