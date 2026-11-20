@@ -6,6 +6,15 @@ A Scala-based simulation tool for analyzing Work-In-Progress (WIP) limits in sof
 
 This project simulates a multi-stage development pipeline with configurable WIP limits at each stage. It uses Monte Carlo simulation to analyze how different WIP limit configurations affect throughput and work distribution across stages.
 
+## Target Audience
+
+This app is designed for:
+
+- **Software development teams** seeking to optimize their workflow pipelines and improve throughput
+- **Process engineers and Agile coaches** who need to analyze and configure WIP limits for development stages
+- **Engineering managers** making data-driven decisions about process configuration and resource allocation
+- **Organizations practicing Lean or Kanban methodologies** looking to understand the impact of WIP constraints on delivery performance
+
 ## Project Structure
 
 ```
